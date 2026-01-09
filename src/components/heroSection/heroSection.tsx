@@ -1,4 +1,3 @@
-import { Twitter, Linkedin, Github } from "lucide-react"
 import { redes } from "../../utils/redes"
 
 export const HeroSection = () => {
