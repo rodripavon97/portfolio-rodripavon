@@ -1,5 +1,5 @@
 import { useActiveSection } from './hooks/useActiveSection';
-import { Github, Mail, Twitter, ExternalLink, ChevronRight } from 'lucide-react'; import { Header } from './components/header/header';
+import { Github, ExternalLink } from 'lucide-react'; import { Header } from './components/header/header';
 import { HeroSection } from './components/heroSection/heroSection';
 import { Experience } from './components/experience/experience';
 
